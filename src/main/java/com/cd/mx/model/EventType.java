@@ -1,7 +1,11 @@
 package com.cd.mx.model;
 
 public enum EventType {
-	Search,
+	SEARCH,
 	PA,
+	PURCHASE,
+	PRODUCT_SHEET,
+	ADD_TO_BASKET,
+	UNKNOWN
 	
 }
